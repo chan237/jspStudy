@@ -1,3 +1,1 @@
-echo "# 프로젝트 초기화" > README.md
-git add README.md
-git commit -m "초기 커밋"
+
